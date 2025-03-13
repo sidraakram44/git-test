@@ -10,6 +10,8 @@ const Sidra = () => {
         <h2 style={{color:"orange"}}>Arham Kalim</h2>
         {alert("zain")}
         <h2>Softwearengg</h2>
+        {alert("sidra")}
+        <h1>We are muslims</h1>
     </div>
   )
 }
