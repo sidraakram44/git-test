@@ -8,6 +8,8 @@ const Sidra = () => {
         Search: <input style={{backgroundColor:"olive"}} type="text" placeholder='search' />
         <button>Add Me</button>
         <h2 style={{color:"orange"}}>Arham Kalim</h2>
+        {alert("zain")}
+        <h2>Softwearengg</h2>
     </div>
   )
 }
