@@ -13,6 +13,7 @@ const Sidra = () => {
         <h2>Softwearengg</h2>
         {/* {alert("sidra")} */}
         <h1>We are muslims</h1>
+        <h2>I live in pattoki</h2>
     </div>
   )
 }
